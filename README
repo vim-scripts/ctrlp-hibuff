@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5032
+
+Features:
+
+* Everything highlighted
+* Buffer numbers
+* Relative buffer paths
+
+Screenshot: http://raw.github.com/sergey-vlasov/ctrlp-hibuff/master/screen.png
+
+Github: http://github.com/sergey-vlasov/ctrlp-hibuff
