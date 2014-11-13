@@ -1,0 +1,3 @@
+The plugin functionality is now a part of https://github.com/ctrlpvim/ctrlp.vim.
+
+Check out the docs for new color mappings and key binding.

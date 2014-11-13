@@ -4,6 +4,7 @@ Features:
 
 * Everything highlighted
 * Buffer numbers
+* Easy buffer deletion
 * Relative buffer paths
 
 Screenshot: http://raw.github.com/sergey-vlasov/ctrlp-hibuff/master/screen.png
